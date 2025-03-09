@@ -1,0 +1,23 @@
+# Python Virtual Environment
+venv/
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+
+# Jupyter Notebook related files
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (optional, depending on your needs)
+**/data/*
+
+# Configuration files with sensitive data.
+config/secrets.env
