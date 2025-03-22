@@ -2,3 +2,4 @@ yfinance
 pandas
 PyYAML
 python-dotenv
+numpy
